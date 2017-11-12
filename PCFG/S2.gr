@@ -1,0 +1,361 @@
+1	S2
+1	S2	_Adj
+1	S2	_Adv
+1	S2	_CC
+1	S2	_Det
+1	S2	_Misc
+1	S2	_NP
+1	S2	_Not
+1	S2	_Noun
+1	S2	_PRP
+1	S2	_Prep
+1	S2	_Proper
+1	S2	_To
+1	S2	_Vdo
+1	S2	_VerbBF
+1	S2	_VerbMT
+1	S2	_VerbPT
+1	S2	_VerbT
+1	S2	_Whp
+1	_Adj	Adj
+1	_Adj	Adj _Adj
+1	_Adj	Adj _Adv
+1	_Adj	Adj _CC
+1	_Adj	Adj _Det
+1	_Adj	Adj _Misc
+1	_Adj	Adj _NP
+1	_Adj	Adj _Not
+1	_Adj	Adj _Noun
+1	_Adj	Adj _PRP
+1	_Adj	Adj _Prep
+1	_Adj	Adj _Proper
+1	_Adj	Adj _To
+1	_Adj	Adj _Vdo
+1	_Adj	Adj _VerbBF
+1	_Adj	Adj _VerbMT
+1	_Adj	Adj _VerbPT
+1	_Adj	Adj _VerbT
+1	_Adj	Adj _Whp
+1	_Adv	Adv
+1	_Adv	Adv _Adj
+1	_Adv	Adv _Adv
+1	_Adv	Adv _CC
+1	_Adv	Adv _Det
+1	_Adv	Adv _Misc
+1	_Adv	Adv _NP
+1	_Adv	Adv _Not
+1	_Adv	Adv _Noun
+1	_Adv	Adv _PRP
+1	_Adv	Adv _Prep
+1	_Adv	Adv _Proper
+1	_Adv	Adv _To
+1	_Adv	Adv _Vdo
+1	_Adv	Adv _VerbBF
+1	_Adv	Adv _VerbMT
+1	_Adv	Adv _VerbPT
+1	_Adv	Adv _VerbT
+1	_Adv	Adv _Whp
+1	_CC	CC
+1	_CC	CC _Adj
+1	_CC	CC _Adv
+1	_CC	CC _CC
+1	_CC	CC _Det
+1	_CC	CC _Misc
+1	_CC	CC _NP
+1	_CC	CC _Not
+1	_CC	CC _Noun
+1	_CC	CC _PRP
+1	_CC	CC _Prep
+1	_CC	CC _Proper
+1	_CC	CC _To
+1	_CC	CC _Vdo
+1	_CC	CC _VerbBF
+1	_CC	CC _VerbMT
+1	_CC	CC _VerbPT
+1	_CC	CC _VerbT
+1	_CC	CC _Whp
+1	_Det	Det
+1	_Det	Det _Adj
+1	_Det	Det _Adv
+1	_Det	Det _CC
+1	_Det	Det _Det
+1	_Det	Det _Misc
+1	_Det	Det _NP
+1	_Det	Det _Not
+1	_Det	Det _Noun
+1	_Det	Det _PRP
+1	_Det	Det _Prep
+1	_Det	Det _Proper
+1	_Det	Det _To
+1	_Det	Det _Vdo
+1	_Det	Det _VerbBF
+1	_Det	Det _VerbMT
+1	_Det	Det _VerbPT
+1	_Det	Det _VerbT
+1	_Det	Det _Whp
+1	_Misc	Misc
+1	_Misc	Misc _Adj
+1	_Misc	Misc _Adv
+1	_Misc	Misc _CC
+1	_Misc	Misc _Det
+1	_Misc	Misc _Misc
+1	_Misc	Misc _NP
+1	_Misc	Misc _Not
+1	_Misc	Misc _Noun
+1	_Misc	Misc _PRP
+1	_Misc	Misc _Prep
+1	_Misc	Misc _Proper
+1	_Misc	Misc _To
+1	_Misc	Misc _Vdo
+1	_Misc	Misc _VerbBF
+1	_Misc	Misc _VerbMT
+1	_Misc	Misc _VerbPT
+1	_Misc	Misc _VerbT
+1	_Misc	Misc _Whp
+1	_NP	NP
+1	_NP	NP _Adj
+1	_NP	NP _Adv
+1	_NP	NP _CC
+1	_NP	NP _Det
+1	_NP	NP _Misc
+1	_NP	NP _NP
+1	_NP	NP _Not
+1	_NP	NP _Noun
+1	_NP	NP _PRP
+1	_NP	NP _Prep
+1	_NP	NP _Proper
+1	_NP	NP _To
+1	_NP	NP _Vdo
+1	_NP	NP _VerbBF
+1	_NP	NP _VerbMT
+1	_NP	NP _VerbPT
+1	_NP	NP _VerbT
+1	_NP	NP _Whp
+1	_Not	Not
+1	_Not	Not _Adj
+1	_Not	Not _Adv
+1	_Not	Not _CC
+1	_Not	Not _Det
+1	_Not	Not _Misc
+1	_Not	Not _NP
+1	_Not	Not _Not
+1	_Not	Not _Noun
+1	_Not	Not _PRP
+1	_Not	Not _Prep
+1	_Not	Not _Proper
+1	_Not	Not _To
+1	_Not	Not _Vdo
+1	_Not	Not _VerbBF
+1	_Not	Not _VerbMT
+1	_Not	Not _VerbPT
+1	_Not	Not _VerbT
+1	_Not	Not _Whp
+1	_Noun	Noun
+1	_Noun	Noun _Adj
+1	_Noun	Noun _Adv
+1	_Noun	Noun _CC
+1	_Noun	Noun _Det
+1	_Noun	Noun _Misc
+1	_Noun	Noun _NP
+1	_Noun	Noun _Not
+1	_Noun	Noun _Noun
+1	_Noun	Noun _PRP
+1	_Noun	Noun _Prep
+1	_Noun	Noun _Proper
+1	_Noun	Noun _To
+1	_Noun	Noun _Vdo
+1	_Noun	Noun _VerbBF
+1	_Noun	Noun _VerbMT
+1	_Noun	Noun _VerbPT
+1	_Noun	Noun _VerbT
+1	_Noun	Noun _Whp
+1	_PRP	PRP
+1	_PRP	PRP _Adj
+1	_PRP	PRP _Adv
+1	_PRP	PRP _CC
+1	_PRP	PRP _Det
+1	_PRP	PRP _Misc
+1	_PRP	PRP _NP
+1	_PRP	PRP _Not
+1	_PRP	PRP _Noun
+1	_PRP	PRP _PRP
+1	_PRP	PRP _Prep
+1	_PRP	PRP _Proper
+1	_PRP	PRP _To
+1	_PRP	PRP _Vdo
+1	_PRP	PRP _VerbBF
+1	_PRP	PRP _VerbMT
+1	_PRP	PRP _VerbPT
+1	_PRP	PRP _VerbT
+1	_PRP	PRP _Whp
+1	_Prep	Prep
+1	_Prep	Prep _Adj
+1	_Prep	Prep _Adv
+1	_Prep	Prep _CC
+1	_Prep	Prep _Det
+1	_Prep	Prep _Misc
+1	_Prep	Prep _NP
+1	_Prep	Prep _Not
+1	_Prep	Prep _Noun
+1	_Prep	Prep _PRP
+1	_Prep	Prep _Prep
+1	_Prep	Prep _Proper
+1	_Prep	Prep _To
+1	_Prep	Prep _Vdo
+1	_Prep	Prep _VerbBF
+1	_Prep	Prep _VerbMT
+1	_Prep	Prep _VerbPT
+1	_Prep	Prep _VerbT
+1	_Prep	Prep _Whp
+1	_Proper	Proper
+1	_Proper	Proper _Adj
+1	_Proper	Proper _Adv
+1	_Proper	Proper _CC
+1	_Proper	Proper _Det
+1	_Proper	Proper _Misc
+1	_Proper	Proper _NP
+1	_Proper	Proper _Not
+1	_Proper	Proper _Noun
+1	_Proper	Proper _PRP
+1	_Proper	Proper _Prep
+1	_Proper	Proper _Proper
+1	_Proper	Proper _To
+1	_Proper	Proper _Vdo
+1	_Proper	Proper _VerbBF
+1	_Proper	Proper _VerbMT
+1	_Proper	Proper _VerbPT
+1	_Proper	Proper _VerbT
+1	_Proper	Proper _Whp
+1	_To	To
+1	_To	To _Adj
+1	_To	To _Adv
+1	_To	To _CC
+1	_To	To _Det
+1	_To	To _Misc
+1	_To	To _NP
+1	_To	To _Not
+1	_To	To _Noun
+1	_To	To _PRP
+1	_To	To _Prep
+1	_To	To _Proper
+1	_To	To _To
+1	_To	To _Vdo
+1	_To	To _VerbBF
+1	_To	To _VerbMT
+1	_To	To _VerbPT
+1	_To	To _VerbT
+1	_To	To _Whp
+1	_Vdo	Vdo
+1	_Vdo	Vdo _Adj
+1	_Vdo	Vdo _Adv
+1	_Vdo	Vdo _CC
+1	_Vdo	Vdo _Det
+1	_Vdo	Vdo _Misc
+1	_Vdo	Vdo _NP
+1	_Vdo	Vdo _Not
+1	_Vdo	Vdo _Noun
+1	_Vdo	Vdo _PRP
+1	_Vdo	Vdo _Prep
+1	_Vdo	Vdo _Proper
+1	_Vdo	Vdo _To
+1	_Vdo	Vdo _Vdo
+1	_Vdo	Vdo _VerbBF
+1	_Vdo	Vdo _VerbMT
+1	_Vdo	Vdo _VerbPT
+1	_Vdo	Vdo _VerbT
+1	_Vdo	Vdo _Whp
+1	_VerbBF	VerbBF
+1	_VerbBF	VerbBF _Adj
+1	_VerbBF	VerbBF _Adv
+1	_VerbBF	VerbBF _CC
+1	_VerbBF	VerbBF _Det
+1	_VerbBF	VerbBF _Misc
+1	_VerbBF	VerbBF _NP
+1	_VerbBF	VerbBF _Not
+1	_VerbBF	VerbBF _Noun
+1	_VerbBF	VerbBF _PRP
+1	_VerbBF	VerbBF _Prep
+1	_VerbBF	VerbBF _Proper
+1	_VerbBF	VerbBF _To
+1	_VerbBF	VerbBF _Vdo
+1	_VerbBF	VerbBF _VerbBF
+1	_VerbBF	VerbBF _VerbMT
+1	_VerbBF	VerbBF _VerbPT
+1	_VerbBF	VerbBF _VerbT
+1	_VerbBF	VerbBF _Whp
+1	_VerbMT	VerbMT
+1	_VerbMT	VerbMT _Adj
+1	_VerbMT	VerbMT _Adv
+1	_VerbMT	VerbMT _CC
+1	_VerbMT	VerbMT _Det
+1	_VerbMT	VerbMT _Misc
+1	_VerbMT	VerbMT _NP
+1	_VerbMT	VerbMT _Not
+1	_VerbMT	VerbMT _Noun
+1	_VerbMT	VerbMT _PRP
+1	_VerbMT	VerbMT _Prep
+1	_VerbMT	VerbMT _Proper
+1	_VerbMT	VerbMT _To
+1	_VerbMT	VerbMT _Vdo
+1	_VerbMT	VerbMT _VerbBF
+1	_VerbMT	VerbMT _VerbMT
+1	_VerbMT	VerbMT _VerbPT
+1	_VerbMT	VerbMT _VerbT
+1	_VerbMT	VerbMT _Whp
+1	_VerbPT	VerbPT
+1	_VerbPT	VerbPT _Adj
+1	_VerbPT	VerbPT _Adv
+1	_VerbPT	VerbPT _CC
+1	_VerbPT	VerbPT _Det
+1	_VerbPT	VerbPT _Misc
+1	_VerbPT	VerbPT _NP
+1	_VerbPT	VerbPT _Not
+1	_VerbPT	VerbPT _Noun
+1	_VerbPT	VerbPT _PRP
+1	_VerbPT	VerbPT _Prep
+1	_VerbPT	VerbPT _Proper
+1	_VerbPT	VerbPT _To
+1	_VerbPT	VerbPT _Vdo
+1	_VerbPT	VerbPT _VerbBF
+1	_VerbPT	VerbPT _VerbMT
+1	_VerbPT	VerbPT _VerbPT
+1	_VerbPT	VerbPT _VerbT
+1	_VerbPT	VerbPT _Whp
+1	_VerbT	VerbT
+1	_VerbT	VerbT _Adj
+1	_VerbT	VerbT _Adv
+1	_VerbT	VerbT _CC
+1	_VerbT	VerbT _Det
+1	_VerbT	VerbT _Misc
+1	_VerbT	VerbT _NP
+1	_VerbT	VerbT _Not
+1	_VerbT	VerbT _Noun
+1	_VerbT	VerbT _PRP
+1	_VerbT	VerbT _Prep
+1	_VerbT	VerbT _Proper
+1	_VerbT	VerbT _To
+1	_VerbT	VerbT _Vdo
+1	_VerbT	VerbT _VerbBF
+1	_VerbT	VerbT _VerbMT
+1	_VerbT	VerbT _VerbPT
+1	_VerbT	VerbT _VerbT
+1	_VerbT	VerbT _Whp
+1	_Whp	Whp
+1	_Whp	Whp _Adj
+1	_Whp	Whp _Adv
+1	_Whp	Whp _CC
+1	_Whp	Whp _Det
+1	_Whp	Whp _Misc
+1	_Whp	Whp _NP
+1	_Whp	Whp _Not
+1	_Whp	Whp _Noun
+1	_Whp	Whp _PRP
+1	_Whp	Whp _Prep
+1	_Whp	Whp _Proper
+1	_Whp	Whp _To
+1	_Whp	Whp _Vdo
+1	_Whp	Whp _VerbBF
+1	_Whp	Whp _VerbMT
+1	_Whp	Whp _VerbPT
+1	_Whp	Whp _VerbT
+1	_Whp	Whp _Whp
